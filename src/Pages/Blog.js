@@ -14,8 +14,8 @@ function Blog() {
           />
 
           <div className="admin d-flex pt-3 fw-bold fs-5">
-            <p className="mx-5"> Written by Admin </p>
-            <p className="mx-5"> 21 August, 2020</p>
+            <p className="mx-3"> Written by Admin </p>
+            <p className="mx-3"> 21 August, 2020</p>
             <p className="text-lg "> 32 Comments</p>
           </div>
           <h2 className="w-bold text-start py-5" f>
